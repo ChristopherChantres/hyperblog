@@ -7,5 +7,6 @@ Un blog increíble para el curso de Git y Github de Platzi
 Ya no sé qué más poner... así que see you.
 * Creado por el increíble Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 ------------
 *Posdáta:* Si llegas aencontrar este **README.MD** simplemente ignoralo jajaja, es una pruba.
